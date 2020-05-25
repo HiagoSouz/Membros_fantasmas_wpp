@@ -5,11 +5,11 @@ Ps: Para total funcionalidade será necessário a realização alguns passos man
 
 <h2> 1° Passo: Conseguir o histórico de conversas do grupo em questão <h2>
   
-Toque e segure na conversa individual ou grupo que você deseja salvar; <br>
-Selecione Enviar por e-mail; <br>
-Escolha se você deseja Anexar Mídia ou não; <br>
-Logo depois, uma tela aparecerá no seu aplicativo de e-mail com a conversa em *.txt anexada, além das mídias, se você escolheu anexá-las; <br>
-Informe um endereço de e-mail e toque em Enviar; <br>
+Toque e segure na conversa individual ou grupo que você deseja salvar;
+Selecione Enviar por e-mail; 
+Escolha se você deseja Anexar Mídia ou não; 
+Logo depois, uma tela aparecerá no seu aplicativo de e-mail com a conversa em *.txt anexada, além das mídias, se você escolheu anexá-las; 
+Informe um endereço de e-mail e toque em Enviar; 
 Salve como 'HistoricoDeConversas.txt'<br>
 
 <h2> 2° Passo: Conseguir os números de todos os membros <h2>
