@@ -6,17 +6,17 @@ Ps: Para total funcionalidade será necessário a realização alguns passos man
 
 ### 1° Passo: Conseguir o histórico de conversas do grupo em questão 
   
-Toque e segure na conversa individual ou grupo que você deseja salvar;
-Selecione Enviar por e-mail; 
-Escolha se você deseja Anexar Mídia ou não; 
-Logo depois, uma tela aparecerá no seu aplicativo de e-mail com a conversa em *.txt anexada, além das mídias, se você escolheu anexá-las; 
-Informe um endereço de e-mail e toque em Enviar; 
-Salve como 'HistoricoDeConversas.txt'
+- Toque e segure na conversa individual ou grupo que você deseja salvar;
+- Selecione Enviar por e-mail; 
+- Escolha se você deseja Anexar Mídia ou não; 
+- Uma tela aparecerá no seu aplicativo de e-mail com a conversa em GROUP_NAME.txt anexada, além das mídias, se você escolheu anexá-las; 
+- Informe um endereço de e-mail e toque em Enviar; 
+- Salve como 'HistoricoDeConversas.txt'
 
 ### 2° Passo: Conseguir os números de todos os membros 
   
 Para esse passo eu utilizei uma extensão do Chrome. 
-  'Wa Group Exporter'</i> - Extensão utilizada por mim
+  _'Wa Group Exporter'_- Extensão utilizada por mim
 A forma de obter os números é irrelevante, o importante é uma lista em um arquivo.txt com todos os membros do grupo.
 Salve como: 'Membros.txt'
 
