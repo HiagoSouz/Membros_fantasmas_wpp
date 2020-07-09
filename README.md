@@ -2,7 +2,7 @@
 
 ## Simples script para encontrar membros inativos em grupos de whatsapp<h1>
   
-Ps: Para total funcionalidade será necessário a realização alguns passos manuais (ainda estou terminando de automatizar totalmente)
+Ps: Para total funcionalidade será necessário a realização alguns passos manuais (ainda é necessário automatizar completamente, fique à vontade para contribuir se achar válido)
 
 ### 1° Passo: Conseguir o histórico de conversas do grupo em questão 
   
